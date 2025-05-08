@@ -1,0 +1,19 @@
+[project]
+name = "lg"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "arxiv>=2.2.0",
+    "graphviz>=0.20.3",
+    "ipython>=9.2.0",
+    "langchain>=0.3.25",
+    "langchain-community>=0.3.23",
+    "langchain-core>=0.3.59",
+    "langchain-groq>=0.3.2",
+    "langgraph>=0.4.3",
+    "pydantic>=2.11.4",
+    "python-dotenv>=1.1.0",
+    "wikipedia>=1.4.0",
+]
