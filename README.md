@@ -2,7 +2,7 @@ Sure! Here's a professional and clear `README.md` file tailored for your LangGra
 
 ---
 
-# 🤖 LangGraph Multi-Tool Agent
+# 🤖 LangGraph Multi-Tool Agent and LandChain ReactAgent
 
 A modular AI chatbot agent built using **LangGraph**, **LangChain**, and **Groq's Qwen model**. It uses multiple tools like **Arxiv**, **Wikipedia**, and **Tavily Search** to respond intelligently to user queries, and includes an optional **LLM answer checker** for validation.
 
